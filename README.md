@@ -1,2 +1,2 @@
-# Coursera-lectures
-Coursera-lectures
+# coursera-lectures
+coursera-lectures
